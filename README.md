@@ -157,7 +157,7 @@ You can retrieve all the output from Alpha Vantage by doing.
 
 The array of the stocks is found by using:
 ``` ruby
-  batch.stock_quotes
+  batch.stock_quote
 ```
 
 Specific information about the batch can be retrieved using the following methods:
